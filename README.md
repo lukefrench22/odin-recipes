@@ -1,0 +1,1 @@
+This will be my first project within The Odin Project. I hope that it will put into practice all the skills I have learned so far. 
